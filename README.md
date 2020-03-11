@@ -1,2 +1,0 @@
-# walkdogs
-TCC - 3º DESENVOLVIMENTO DE SISTEMAS
