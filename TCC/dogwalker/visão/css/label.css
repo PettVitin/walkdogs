@@ -1,0 +1,21 @@
+#email {
+    /*definimos a largura do box*/
+    width: 200;
+    /* definimos a altura do box */
+    height: 200;
+    /* definimos a cor de fundo do box */
+    background-color: cornsilk;
+    /* definimos o quão arredondado irá ficar nosso box */
+    border-radius: 10px;
+}
+
+#password {
+    /*definimos a largura do box*/
+    width: 200;
+    /* definimos a altura do box */
+    height: 200;
+    /* definimos a cor de fundo do box */
+    background-color: cornsilk;
+    /* definimos o quão arredondado irá ficar nosso box */
+    border-radius: 15px;
+}

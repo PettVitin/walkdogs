@@ -1,0 +1,120 @@
+Updatecheck<|||>3<|||>1
+DoUsageStatistics<|||>3<|||>1
+Theme<|||>1<|||>Windows
+SQL Attr Comment Foreground<|||>3<|||>8421504
+SQL Attr ConditionalComment Foreground<|||>3<|||>8421504
+SQL Attr DataType Foreground<|||>3<|||>128
+SQL Attr DelimitedIdentifier Foreground<|||>3<|||>32896
+SQL Attr Function Foreground<|||>3<|||>8388608
+SQL Attr Identifier Foreground<|||>3<|||>32896
+SQL Attr Key Foreground<|||>3<|||>16711680
+SQL Attr Number Foreground<|||>3<|||>8388736
+SQL Attr String Foreground<|||>3<|||>32768
+SQL Attr Symbol Foreground<|||>3<|||>16711680
+SQL Attr TableName Foreground<|||>3<|||>16711935
+SQL Attr Variable Foreground<|||>3<|||>8388736
+FieldColor_Binary<|||>3<|||>8388736
+FieldColor_Datetime<|||>3<|||>128
+FieldColor_Numeric<|||>3<|||>16711680
+FieldColor_Other<|||>3<|||>32896
+FieldColor_Real<|||>3<|||>16711752
+FieldColor_Spatial<|||>3<|||>8421376
+FieldColor_Text<|||>3<|||>32768
+ColWidths_connform.ListSessions<|||>1<|||>163,50,50,50,50,50,53
+ColsVisible_connform.ListSessions<|||>1<|||>0
+ColPositions_connform.ListSessions<|||>1<|||>0,1,2,3,4,5,6
+ColSort_connform.ListSessions<|||>1<|||>0,0
+MainWinOnMonitor<|||>3<|||>0
+ColWidths_MainForm.ListDatabases<|||>1<|||>150,80,50,50,50,50,50,50,50,50,120
+ColsVisible_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColPositions_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColSort_MainForm.ListDatabases<|||>1<|||>0,0
+ColWidths_MainForm.ListVariables<|||>1<|||>160,200,275
+ColsVisible_MainForm.ListVariables<|||>1<|||>0,1,2
+ColPositions_MainForm.ListVariables<|||>1<|||>0,1,2
+ColSort_MainForm.ListVariables<|||>1<|||>0,0
+ColWidths_MainForm.ListStatus<|||>1<|||>160,275,100,100
+ColsVisible_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColPositions_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColSort_MainForm.ListStatus<|||>1<|||>0,0
+ColWidths_MainForm.ListProcesses<|||>1<|||>70,80,80,80,80,50,50,145
+ColsVisible_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColPositions_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColSort_MainForm.ListProcesses<|||>1<|||>0,1
+ColWidths_MainForm.ListCommandStats<|||>1<|||>120,100,100,100,215
+ColsVisible_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColPositions_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColSort_MainForm.ListCommandStats<|||>1<|||>1,1
+ColWidths_MainForm.ListTables<|||>1<|||>120,70,70,120,120,70,100,50,70,70,70,70,70,90,120,70,70,70,50
+ColsVisible_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,18
+ColPositions_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+ColSort_MainForm.ListTables<|||>1<|||>0,0
+SessionManager_WindowLeft<|||>3<|||>172
+SessionManager_WindowTop<|||>3<|||>201
+LastSessions<|||>1<|||>Unnamed
+LastActiveSession<|||>1<|||>Unnamed
+MemoEditorWidth<|||>3<|||>132
+Servers\Unnamed\SessionCreated<|||>1<|||>2020-04-03 22:29:59
+Servers\Unnamed\Host<|||>1<|||>127.0.0.1
+Servers\Unnamed\WindowsAuth<|||>3<|||>0
+Servers\Unnamed\User<|||>1<|||>root
+Servers\Unnamed\Password<|||>1<|||>7B79687D6
+Servers\Unnamed\LoginPrompt<|||>3<|||>0
+Servers\Unnamed\Port<|||>1<|||>3307
+Servers\Unnamed\NetType<|||>3<|||>0
+Servers\Unnamed\Compressed<|||>3<|||>0
+Servers\Unnamed\LocalTimeZone<|||>3<|||>0
+Servers\Unnamed\QueryTimeout<|||>3<|||>30
+Servers\Unnamed\KeepAlive<|||>3<|||>20
+Servers\Unnamed\FullTableStatus<|||>3<|||>1
+Servers\Unnamed\Databases<|||>1<|||>
+Servers\Unnamed\Comment<|||>1<|||>
+Servers\Unnamed\StartupScriptFilename<|||>1<|||>
+Servers\Unnamed\TreeBackground<|||>3<|||>536870911
+Servers\Unnamed\SSHtunnelHost<|||>1<|||>
+Servers\Unnamed\SSHtunnelHostPort<|||>3<|||>22
+Servers\Unnamed\SSHtunnelUser<|||>1<|||>
+Servers\Unnamed\SSHtunnelPassword<|||>1<|||>6
+Servers\Unnamed\SSHtunnelTimeout<|||>3<|||>4
+Servers\Unnamed\SSHtunnelPrivateKey<|||>1<|||>
+Servers\Unnamed\SSHtunnelPort<|||>3<|||>3307
+Servers\Unnamed\SSL_Active<|||>3<|||>0
+Servers\Unnamed\SSL_Key<|||>1<|||>
+Servers\Unnamed\SSL_Cert<|||>1<|||>
+Servers\Unnamed\SSL_CA<|||>1<|||>
+Servers\Unnamed\SSL_Cipher<|||>1<|||>
+Servers\Unnamed\RefusedCount<|||>3<|||>1
+Servers\Unnamed\ServerVersionFull<|||>1<|||>5.6.13 - MySQL Community Server (GPL)
+Servers\Unnamed\ConnectCount<|||>3<|||>1
+Servers\Unnamed\ServerVersion<|||>3<|||>50613
+Servers\Unnamed\LastConnect<|||>1<|||>2020-04-03 22:33:12
+Servers\walkdogs\SessionCreated<|||>1<|||>2020-04-03 22:27:09
+Servers\walkdogs\Host<|||>1<|||>127.0.0.1
+Servers\walkdogs\WindowsAuth<|||>3<|||>0
+Servers\walkdogs\User<|||>1<|||>root
+Servers\walkdogs\Password<|||>1<|||>3
+Servers\walkdogs\LoginPrompt<|||>3<|||>0
+Servers\walkdogs\Port<|||>1<|||>3306
+Servers\walkdogs\NetType<|||>3<|||>0
+Servers\walkdogs\Compressed<|||>3<|||>0
+Servers\walkdogs\LocalTimeZone<|||>3<|||>0
+Servers\walkdogs\QueryTimeout<|||>3<|||>30
+Servers\walkdogs\KeepAlive<|||>3<|||>20
+Servers\walkdogs\FullTableStatus<|||>3<|||>1
+Servers\walkdogs\Databases<|||>1<|||>
+Servers\walkdogs\Comment<|||>1<|||>
+Servers\walkdogs\StartupScriptFilename<|||>1<|||>
+Servers\walkdogs\TreeBackground<|||>3<|||>536870911
+Servers\walkdogs\SSHtunnelHost<|||>1<|||>
+Servers\walkdogs\SSHtunnelHostPort<|||>3<|||>22
+Servers\walkdogs\SSHtunnelUser<|||>1<|||>
+Servers\walkdogs\SSHtunnelPassword<|||>1<|||>3
+Servers\walkdogs\SSHtunnelTimeout<|||>3<|||>4
+Servers\walkdogs\SSHtunnelPrivateKey<|||>1<|||>
+Servers\walkdogs\SSHtunnelPort<|||>3<|||>3307
+Servers\walkdogs\SSL_Active<|||>3<|||>0
+Servers\walkdogs\SSL_Key<|||>1<|||>
+Servers\walkdogs\SSL_Cert<|||>1<|||>
+Servers\walkdogs\SSL_CA<|||>1<|||>
+Servers\walkdogs\SSL_Cipher<|||>1<|||>
+Servers\walkdogs\RefusedCount<|||>3<|||>4
